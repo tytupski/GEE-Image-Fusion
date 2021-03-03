@@ -14,4 +14,4 @@ There are a total of four scripts here that can be used to automate large image 
 MIT
 
 ## Example fusion results
-[![MODIS vs. GEE image fusion](https://www.youtube.com/watch?v=v9F71tuqozY/0.jpg)](https://www.youtube.com/watch?v=v9F71tuqozY) 
+[![MODIS vs. GEE image fusion](https://img.youtube.com/vi/v9F71tuqozY/maxresdefault.jpg)](https://www.youtube.com/watch?v=v9F71tuqozY) 
