@@ -11,4 +11,7 @@ There are a total of four scripts here that can be used to automate large image 
 4. **core_functions.py**- this script contains the main functions needed to perform image fusion. If all images have been preprocessed and formatted correctly then these functions can be run to predict new images at times when only MODIS is available. Functions include spectral distance to similar pixels, spatial distance, weight calculation, conversion coefficient calculation, and prediction.
 
 ## License
-MIT 
+MIT
+
+## Example fusion results
+[![MODIS vs. GEE image fusion](https://www.youtube.com/watch?v=v9F71tuqozY/0.jpg)](https://www.youtube.com/watch?v=v9F71tuqozY) 
