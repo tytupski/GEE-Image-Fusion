@@ -13,5 +13,5 @@ There are a total of four scripts here that can be used to automate large image 
 ## License
 MIT
 
-## Example fusion results
+## Example time series MODIS vs. GEE image fusion 
 [![MODIS vs. GEE image fusion](https://img.youtube.com/vi/v9F71tuqozY/maxresdefault.jpg)](https://www.youtube.com/watch?v=v9F71tuqozY) 
